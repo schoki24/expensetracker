@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82161799817",
+    "project_id": "expense-3b65a",
+    "storage_bucket": "expense-3b65a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82161799817:android:e5c8bae315a37545892c58",
+        "android_client_info": {
+          "package_name": "com.example.travel_expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtx5VIkkKCfsegHEKa5N0PVyjmUokx-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
